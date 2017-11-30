@@ -18,6 +18,7 @@
 
   /**
    * 3. Run short code parser in body field
+   * $content = do_shortcode($body_field);
    */
 
   /**
