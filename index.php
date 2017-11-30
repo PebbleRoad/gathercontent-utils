@@ -7,9 +7,21 @@
   $gatherContent = new GatherContent();
 
   /**
-   * Get a list of all pages
+   * 1. Get a list of all pages
    */
   $pages = $gatherContent->get('/items');
-  
+
+  /**
+   * 2. Loop through all pages
+   */
+
+
+  /**
+   * 3. Run short code parser in body field
+   */
+
+  /**
+  * 4. Save the pages as json
+  */
   
 ?>
